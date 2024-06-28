@@ -1,0 +1,20 @@
+lcl|NM_121052.3_cds_NP_196576.1_1 [gene=FLC] [locus_tag=AT5G10140] [db_xref=TAIR:AT5G10140,GeneID:830878] [protein=K-box region and MADS-box transcription factor family protein] [protein_id=NP_196576.1] [location=110..700] [gbkey=CDS]	591
+lcl|NM_001203343.1_cds_NP_001190272.1_1 [gene=FLC] [locus_tag=AT5G10140] [db_xref=TAIR:AT5G10140,GeneID:830878] [protein=K-box region and MADS-box transcription factor family protein] [protein_id=NP_001190272.1] [location=110..658] [gbkey=CDS]	549
+lcl|NM_001085094.2_cds_NP_001078563.1_1 [gene=FLC] [locus_tag=AT5G10140] [db_xref=TAIR:AT5G10140,GeneID:830878] [protein=K-box region and MADS-box transcription factor family protein] [protein_id=NP_001078563.1] [location=110..613] [gbkey=CDS]	504
+lcl|NM_001161231.2_cds_NP_001154703.1_1 [gene=FLC] [locus_tag=AT5G10140] [db_xref=TAIR:AT5G10140,GeneID:830878] [protein=K-box region and MADS-box transcription factor family protein] [protein_id=NP_001154703.1] [location=110..670] [gbkey=CDS]	561
+lcl|NM_001281128.1_cds_NP_001268057.1_1 [gene=FLC] [db_xref=GeneID:100267653] [protein=flowering locus C] [protein_id=NP_001268057.1] [location=1..633] [gbkey=CDS]	633
+lcl|XM_003850767.1_cds_XP_003850815.1_1 [gene=FLC] [locus_tag=MYCGRDRAFT_105310] [db_xref=JGIDB:Mycgr3_105310,GeneID:13397769] [protein=flocullin] [protein_id=XP_003850815.1] [location=48..1964] [gbkey=CDS]	1917
+lcl|NM_001302062.1_cds_NP_001288991.1_1 [gene=LOC103855854] [db_xref=GeneID:103855854] [protein=MADS-box protein FLOWERING LOCUS C-like] [protein_id=NP_001288991.1] [location=55..648] [gbkey=CDS]	594
+lcl|XM_024070857.2_cds_XP_023926625.1_1 [gene=LOC112038048] [db_xref=GeneID:112038048] [protein=protein DOWNSTREAM OF FLC] [protein_id=XP_023926625.1] [location=121..600] [gbkey=CDS]	480
+lcl|XM_024026283.2_cds_XP_023882051.1_1 [gene=LOC111994408] [db_xref=GeneID:111994408] [protein=protein FLC EXPRESSOR isoform X2] [protein_id=XP_023882051.1] [location=230..1033] [gbkey=CDS]	804
+lcl|XM_024026282.2_cds_XP_023882050.1_1 [gene=LOC111994408] [db_xref=GeneID:111994408] [protein=protein FLC EXPRESSOR isoform X1] [protein_id=XP_023882050.1] [location=228..1103] [gbkey=CDS]	876
+lcl|XM_017383349.2_cds_XP_017238838.1_1 [gene=LOC108211686] [db_xref=GeneID:108211686] [protein=protein DOWNSTREAM OF FLC] [protein_id=XP_017238838.1] [location=235..711] [gbkey=CDS]	477
+lcl|XM_062317047.1_cds_XP_062173031.1_1 [gene=LOC133878486] [db_xref=GeneID:133878486] [protein=protein FLC EXPRESSOR isoform X2] [protein_id=XP_062173031.1] [location=85..894] [gbkey=CDS]	810
+lcl|XM_062317046.1_cds_XP_062173030.1_1 [gene=LOC133878486] [db_xref=GeneID:133878486] [protein=protein FLC EXPRESSOR isoform X1] [protein_id=XP_062173030.1] [location=83..949] [gbkey=CDS]	867
+lcl|XM_062173714.1_cds_XP_062029698.1_1 [gene=LOC133745609] [db_xref=GeneID:133745609] [protein=protein DOWNSTREAM OF FLC] [protein_id=XP_062029698.1] [location=103..582] [gbkey=CDS]	480
+lcl|XM_062161090.1_cds_XP_062017074.1_1 [gene=LOC133733465] [db_xref=GeneID:133733465] [protein=protein FLC EXPRESSOR isoform X4] [protein_id=XP_062017074.1] [location=42..782] [gbkey=CDS]	741
+lcl|XM_062161089.1_cds_XP_062017073.1_1 [gene=LOC133733465] [db_xref=GeneID:133733465] [protein=protein FLC EXPRESSOR isoform X3] [protein_id=XP_062017073.1] [location=42..800] [gbkey=CDS]	759
+lcl|XM_062161088.1_cds_XP_062017072.1_1 [gene=LOC133733465] [db_xref=GeneID:133733465] [protein=protein FLC EXPRESSOR isoform X2] [protein_id=XP_062017072.1] [location=42..857] [gbkey=CDS]	816
+lcl|XM_062161087.1_cds_XP_062017071.1_1 [gene=LOC133733465] [db_xref=GeneID:133733465] [protein=protein FLC EXPRESSOR isoform X1] [protein_id=XP_062017071.1] [location=42..875] [gbkey=CDS]	834
+lcl|XM_062238762.1_cds_XP_062094746.1_1 [gene=LOC133800732] [db_xref=GeneID:133800732] [protein=protein DOWNSTREAM OF FLC] [protein_id=XP_062094746.1] [location=160..645] [gbkey=CDS]	486
+lcl|XM_062230645.1_cds_XP_062086629.1_1 [gene=LOC133792731] [db_xref=GeneID:133792731] [protein=protein FLC EXPRESSOR isoform X2] [protein_id=XP_062086629.1] [location=94..957] [gbkey=CDS]	864
